@@ -1,5 +1,6 @@
+/* general styling */
+
 p {
-  /*float: left;*/
   width: 80%;
   text-align: justify;
 }
@@ -31,6 +32,8 @@ div.code-html {
 .JSReturn {
   color: #0400A5;
 }
+
+/*page-specific styling*/
 
 .red-background {
   background-color: #F75656;
