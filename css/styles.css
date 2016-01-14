@@ -4,6 +4,11 @@ p {
   text-align: justify;
 }
 
+h3 {
+  width: 80%;
+  text-align: justify;
+}
+
 .withincode {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -20,7 +25,7 @@ div.code-html {
   font-family: 'Courier New', Courier;
   padding: 20px 0px 20px 30px;
   width: 80%;
-  white-space: pre-wrap;
+  white-space: pre-line;
 }
 
 .JSReturn {
